@@ -21,3 +21,16 @@ a:link{
     text-decoration: none;
     color: black;
 }
+
+#imagegoogle
+{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+footer{
+ display: flex;
+align-items: flex-end;
+margin-bottom: 10px; 
+}
