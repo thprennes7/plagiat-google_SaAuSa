@@ -69,12 +69,13 @@ align-items: center;
 {
  display: flex;
 justify-content: space-between;
-background-color: #DCDBDB;
+background-color: #F1F1F1;
 font-family: "Roboto", sans-serif;
 border-top: 1px solid grey;
 font-size: 0.8em; 
 height: 40px;
 vertical-align: middle;
+color: #DCDBDB;
     }
 
 .sea {
