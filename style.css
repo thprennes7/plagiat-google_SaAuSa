@@ -75,7 +75,6 @@ border-top: 1px solid grey;
 font-size: 0.8em; 
 height: 40px;
 vertical-align: middle;
-color: #DCDBDB;
     }
 
 .sea {
@@ -93,7 +92,7 @@ form
 }
 .RG
 {
-    background-color: #DCDBDB;
+    background-color: #F1F1F1;
 	color: white;
 	font-family: "Roboto", sans-serif;
 	font-weight: bold;
@@ -101,12 +100,13 @@ form
 	padding: 8px 15px;
     border-radius: 4px;
     display: inline-block;
+	color: #8A8A8A;
     
 }
 
 #Pays
 {
-	background-color: #DCDBDB;
+	background-color: #F1F1F1;
 	font-family: "Roboto", sans-serif;
 	font-size: 1em;
 	margin-left:10px;
@@ -115,5 +115,5 @@ form
 }
 
 #grey {
-	background-color: #DCDBDB;
+	background-color: #F1F1F1;
 }
