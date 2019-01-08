@@ -1,7 +1,16 @@
+
 *{
     padding: 0;
     margin: 0;
 }
+html, #wrapper, body {height: 100%;}
+#wrapper
+{display: flex;
+flex-direction: column;
+    justify-content: space-between;
+    
+}
+
 
 li{
     display: inline;
@@ -35,7 +44,8 @@ a:link{
 #imagegoogle
 {
 display: flex;
-justify-content: center;
+justify-content: center; 
+flex-direction: column;
 align-items: center;
 }
 
@@ -43,4 +53,11 @@ footer{
  display: flex;
 align-items: flex-end;
 margin-bottom: 10px; 
+    }
+
+.sea {
+    display: block;
+    height: 40px;
+    width: 700px;
+    padding: 30px;
 }
