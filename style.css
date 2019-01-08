@@ -69,7 +69,12 @@ align-items: center;
 {
  display: flex;
 justify-content: space-between;
-margin-bottom: 10px; 
+background-color: #DCDBDB;
+font-family: "Roboto", sans-serif;
+border-top: 1px solid grey;
+font-size: 0.8em; 
+height: 40px;
+vertical-align: middle;
     }
 
 .sea {
@@ -100,5 +105,14 @@ form
 
 #Pays
 {
-    
+	background-color: #DCDBDB;
+	font-family: "Roboto", sans-serif;
+	font-size: 1em;
+	margin-left:10px;
+	margin-top: 20px;
+	height: 40px;   
+}
+
+#grey {
+	background-color: #DCDBDB;
 }
